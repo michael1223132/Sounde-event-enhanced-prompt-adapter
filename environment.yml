@@ -1,4 +1,4 @@
-name: Tango2
+name: Adapater
 channels:
   - pytorch
   - nvidia
