@@ -1,5 +1,0 @@
-path/to/local/google/flan-t5-large/pytorch_model.bin
-archive.zip
-sentence_t5_base/model.safetensors
-sentence_t5_base/pytorch_model.bin
-sentence_t5_base/rust_model.ot
