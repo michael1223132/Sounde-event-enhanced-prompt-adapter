@@ -1,0 +1,32 @@
+# Ignore all .log files in any directory
+*.log
+# Ignore the logs directory specifically
+logs/
+wandb/
+__pycache__/
+ckpt/
+data/test_toy_fixed.json
+data/train_litte.json
+pretrained/
+saved/
+111.ipynb
+encodertest.py
+test.ipynb
+test111.ipynb
+test111.py
+similarity.ipynb
+archive.zip
+sentence_t5_base/
+
+path/to/local/google/flan-t5-large/pytorch_model.bin
+data/
+# Ignore the target_audio directory
+target_audio/
+
+# Ignore the reference_test directory
+reference_test_2s/
+reference_train/
+reference_train_2s/
+reference_valid_2s/
+reference_val/
+outputs/
